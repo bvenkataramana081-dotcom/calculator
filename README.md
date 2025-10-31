@@ -1,0 +1,1 @@
+This is a simple calculator that makes basic math a breeze. Just type in your numbers, hit calculate, and get instant results—no stress, no complicated steps. Whether it’s addition, subtraction, multiplication, or division, this tool keeps it easy and efficient.
